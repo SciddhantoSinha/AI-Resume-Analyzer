@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# 💼 AI Resume Analyzer
 
 An AI-powered Resume Analyzer that compares resumes with job descriptions to evaluate candidate-job fit using semantic similarity and keyword analysis.
 
